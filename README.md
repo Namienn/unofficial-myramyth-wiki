@@ -1,3 +1,11 @@
+> This Wiki is enabled by Obsidian and Quartz. All of the stories and websites linked are owned or associated to the Myramyth team
+
+This is the GitHub Repository for the Unofficial Myramyth Wiki!
+
+To access the Wiki, visit https://namienn.github.io/unofficial-myramyth-wiki 
+
+Tutorial for contribution is still under construction
+
 # Quartz v5
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
@@ -8,7 +16,7 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+## Quartz Sponsors
 
 <p align="center">
   <a href="https://github.com/sponsors/jackyzha0">
