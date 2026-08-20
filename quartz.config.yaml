@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: namienn.github.io/unofficial-myramyth-wiki
+  baseUrl: namienn.github.io/unnoficial-myramyth-wiki
   ignorePatterns:
     - private
     - templates
