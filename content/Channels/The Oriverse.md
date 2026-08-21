@@ -1,6 +1,8 @@
 ---
+title:
+draft: true
 tags:
-  - "#Channel"
+  - "#Discord"
 ---
 >[!example] \- Hub
 # Briefing

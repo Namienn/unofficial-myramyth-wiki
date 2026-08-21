@@ -1,3 +1,10 @@
+---
+title: Myramyth Wiki
+draft: true
+tags:
+  - "#Navigation"
+---
+
 This is the Myramyth Wiki
 
 [[S-X Timelines]]

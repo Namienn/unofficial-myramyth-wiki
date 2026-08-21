@@ -1,6 +1,8 @@
 ---
 tags:
   - "#Lore"
+title:
+draft: true
 ---
 >[!example] \- Hub Note
 # Briefing

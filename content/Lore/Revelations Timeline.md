@@ -1,6 +1,9 @@
 ---
+title:
+draft: true
 tags:
   - "#Lore"
+  - "#Vault"
 aliases:
   - Revelations (Timeline)
 ---
