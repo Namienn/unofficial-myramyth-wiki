@@ -1,19 +1,28 @@
 ---
 title:
-draft: true
+draft: false
 tags:
   - "#Discord"
+aliases:
+  - The Basement
 ---
 >[!example] \- [[The Oriverse]]
 # Briefing
 
 The Channel `the_basement` within [[The Oriverse]] is ran by commands in order to uncover clues hiding under cryptic sentences
 
+> [!warning] This page is a Stub
+> This page is missing key information
 # Clues
 
 ## Commands
 
 Scattered throughout the many quotes of the basement, there are a few that prompt the user to do (or not do) something, which in turn allows access to further clues hidden within the server
+
+> [!warning]- Missing Commands
+> A few commands are missing a description at the moment:
+> * !company
+> * !lore
 
 ### !next-room
 
@@ -42,11 +51,9 @@ A discontinued command that would either grant you access to a dedicated discord
 It is referenced in the quote:
 >!Well !\<user>, !there's !nothing !useful !in !this !room, !just !a !stack !of !useless !Notes.
 
-### !company
-
 ## Images
 
-Within the basement, some quotes are accompanied by cryptic images that might hint towards something
+Accessible through the basement commands are various hints at different parts of the universe, some of them related to past and present puzzles within the community
 
 ### Dirty Note
 
